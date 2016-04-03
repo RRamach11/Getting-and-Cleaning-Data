@@ -1,6 +1,5 @@
-# Getting-and-Cleaning-Data
 
-The purpose of this project is my ability to collect, work with, and clean a data set.
+The purpose of this project is to collect, work with, and clean a data set.
 
 Review criteria
  - The submitted data set is tidy.
