@@ -40,8 +40,9 @@ The following files are available for the train and test data. Their description
 - 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
-- 
+ 
 In this project, I have created a merged data of the train and test data set. I have called it allData and here are variables in allData:
+
 names(allData)
  [1] "TimeBodyAccelerometer-mean()-X"                 "TimeBodyAccelerometer-mean()-Y"                
  [3] "TimeBodyAccelerometer-mean()-Z"                 "TimeBodyAccelerometer-std()-X"                 
